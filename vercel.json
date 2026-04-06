@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd finance-dashboard && npm install && npm run build",
+  "outputDirectory": "finance-dashboard/dist",
+  "installCommand": "cd finance-dashboard && npm install"
+}
